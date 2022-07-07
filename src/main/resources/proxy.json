@@ -1,0 +1,22 @@
+[
+  {
+    "name": "nginx",
+    "servletUrl": "/nginx/*",
+    "targetUrl": "http://10.128.202.42:8080"
+  },
+  {
+    "name": "baidu",
+    "servletUrl": "/baidu/*",
+    "targetUrl": "https://www.baidu.com"
+  },
+  {
+    "name": "/upapi",
+    "servletUrl": "/upapi/*",
+    "targetUrl": "https://openapi.unionpay.com/upapi"
+  },
+  {
+    "name": "/42",
+    "servletUrl": "/42/*",
+    "targetUrl": "http://219.237.75.88:8091/app6/campaign"
+  }
+]
